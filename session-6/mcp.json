@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\Coditas-Admin\\work\\gen-ai\\session-6\\sandbox"
+      ]
+    },
+    "oncall": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\Coditas-Admin\\work\\gen-ai\\session-6\\oncall_server.py"
+      ]
+    }
+  }
+}
